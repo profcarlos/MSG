@@ -1,0 +1,18 @@
+LAYER
+  NAME "pa_br_bioma_5000_2004_ibge"
+  DATA "Vegetação/pa_br_bioma_5000_2004_ibge.shp"
+  EXTENT  -73.990944 -33.751583 -28.835629 5.272156
+  METADATA
+    "ows_title" "Biomas do Brasil"
+    "ows_abstract" "Limites dos biomas brasileiros"
+    "gml_exclude_items" "the_geom"
+    "gml_include_items" "all"
+    "gml_geometries"  "the_geom"
+  END
+  PROJECTION
+    "init=epsg:4674"
+  END
+  STATUS ON
+  TYPE Polygon
+  TEMPLATE "DUMMY"
+END

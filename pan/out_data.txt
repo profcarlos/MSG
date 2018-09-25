@@ -1,0 +1,583 @@
+[1300, 1315, 1330, 1345, 1400, 1415, 1430, 1445, 1500]
+. Create data to: 20130701
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130702
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130703
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130704
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130705
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130706
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130707
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130708
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130709
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130710
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130711
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130712
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130713
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130714
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130715
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130716
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130717
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130718
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130719
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130720
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130721
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130722
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307221345_NDWI.tif
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307221445_NDWI.tif
+hour: 1500
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307221500_NDWI.tif
+. Create data to: 20130723
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130724
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130725
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130726
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130727
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307271400_NDWI.tif
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130728
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130729
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307291345_NDWI.tif
+hour: 1400
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307291400_NDWI.tif
+hour: 1415
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307291415_NDWI.tif
+hour: 1430
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307291430_NDWI.tif
+hour: 1445
+hour: 1500
+. Create data to: 20130730
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130731
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+[1300, 1315, 1330, 1345, 1400, 1415, 1430, 1445, 1500]
+. Create data to: 20130701
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130702
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130703
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130704
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130705
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130706
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130707
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130708
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130709
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130710
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130711
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130712
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130713
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130714
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130715
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130716
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130717
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130718
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130719
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130720
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130721
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130722
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307221345_NDWI.tif
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307221445_NDWI.tif
+hour: 1500
+..Warning! Invalid data file: t:\eumetsat\6S\2013\07\201307221500_NDWI.tif
+. Create data to: 20130723
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130724
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130725
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500
+. Create data to: 20130726
+hour: 1300
+hour: 1315
+hour: 1330
+hour: 1345
+hour: 1400
+hour: 1415
+hour: 1430
+hour: 1445
+hour: 1500

@@ -1,0 +1,87 @@
+Histogram of file: T:\EUMETSAT\ANALYSES\PCA\MDO13_3KM_NO_DATA\MOD_Kmean_PCA_3_bands_14_ids.tif
+0	0
+1	4312
+2	1328
+3	6543
+4	0
+5	0
+6	0
+7	2501
+8	0
+9	0
+10	3627
+11	0
+12	3877
+13	1764
+14	0
+15	0
+Histogram of file: T:\EUMETSAT\ANALYSES\PCA\MSG_3KM_FILTER_123\MSG_123_filter_PCA_3bands_Kmean_14_ids.tif
+0	0
+1	3037
+2	4708
+3	5365
+4	0
+5	0
+6	0
+7	2538
+8	0
+9	0
+10	4151
+11	0
+12	1299
+13	2929
+14	0
+15	0
+Histogram of file: T:\EUMETSAT\ANALYSES\PCA\MDO13_3KM_NO_DATA\MOD_Kmean_PCA_3_bands_14_ids.tif
+0	0
+1	4312
+2	1328
+3	6543
+4	0
+5	0
+6	0
+7	2501
+8	0
+9	0
+10	3627
+11	0
+12	3877
+13	1764
+14	0
+15	0
+Histogram of file: T:\EUMETSAT\ANALYSES\PCA\MSG_3KM_FILTER_123\MSG_123_filter_PCA_3bands_Kmean_14_ids.tif
+0	0
+1	3037
+2	4708
+3	5365
+4	0
+5	0
+6	0
+7	2538
+8	0
+9	0
+10	4151
+11	0
+12	1299
+13	2929
+14	0
+15	0
+Histogram of file: T:\OUTROS\TerraClass\TClass_maskVectorGoias_go_perc.tif
+0	0
+1	3131
+2	713
+3	156
+4	160
+5	1646
+6	887
+7	1
+8	18
+9	47
+10	0
+11	13838
+12	2830
+13	46
+14	10
+15	0
+
+
