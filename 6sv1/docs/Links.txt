@@ -1,0 +1,4 @@
+https://github.com/robintw/Py6S/blob/master/doc/source/installation.rst
+
+http://py6s.readthedocs.org/en/latest/introduction.html
+
