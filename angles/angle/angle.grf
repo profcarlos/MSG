@@ -1,0 +1,24 @@
+[Ilwis]
+Description=GeoReference Corners "angle"
+Time=1135180644
+Version=3.1
+Class=GeoReference Corners
+Type=GeoRef
+[GeoRef]
+CoordSystem=LatlonWGS84.csy
+Lines=378
+Columns=378
+Type=GeoRefCorners
+[GeoRefSmpl]
+a11=2.217647058824
+a12=0.000000000000
+a21=0.000000000000
+a22=-2.217647058824
+b1=189.000000000000
+b2=189.000000000000
+[GeoRefCorners]
+CornersOfCorners=No
+MinX=-85.000000
+MinY=-85.000000
+MaxX=85.000000
+MaxY=85.000000

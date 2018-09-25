@@ -1,0 +1,40 @@
+[Table]
+Description=Representation Class "illum_cond"
+Time=1152273386
+Version=3.1
+Class=Table
+Domain=illum_cond.dom
+DomainInfo=illum_cond.dom;Byte;group;3;;
+Columns=1
+Records=3
+Type=TableStore
+[TableStore]
+Data=illum_cond.rp#
+UseAs=No
+Col0=Color
+Type=TableBinary
+StoreTime=1152262840
+[Col:Color]
+Description=Color
+Time=1152262840
+Version=3.1
+Class=Column
+Domain=Color.dom
+DomainInfo=Color.dom;Long;color;0;;
+ReadOnly=No
+OwnedByTable=Yes
+StoreType=Long
+Stored=Yes
+Type=ColumnStore
+[Ilwis]
+Description=Representation Class "illum_cond"
+Time=1178192814
+Version=3.1
+Class=Representation Class
+Type=Representation
+[Representation]
+Domain=illum_cond.dom
+DomainInfo=illum_cond.dom;Byte;group;3;;
+BoundaryColor=0
+BoundaryWidth=1
+Type=RepresentationClass

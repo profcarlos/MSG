@@ -1,0 +1,57 @@
+AZIMUTH:
+!generateangles.bat 2013 12 12 12.15
+cd D:\gnc_out\
+'D:\gnc_out\msgaz_':=map('C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\sataz_2013_12_12_12.15',genras,Convert,378,0,Real,4,SwapBytes);
+setgrf 'D:\gnc_out\msgaz_'.mpr 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\angle';
+'D:\gnc_out\msgaz'{dom=value.dom;vr=-360:360:0.0001}:='D:\gnc_out\msgaz_';
+calc 'D:\gnc_out\msgaz'.mpr;
+'D:\gnc_out\solaz_':=map('C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\sunaz_2013_12_12_12.15',genras,Convert,378,0,Real,4,SwapBytes);
+setgrf 'D:\gnc_out\solaz_'.mpr 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\angle';
+'D:\gnc_out\solaz'{dom=value.dom;vr=-360:360:0.0001}:='D:\gnc_out\solaz_';
+calc 'D:\gnc_out\solaz'.mpr;
+D:
+cd D:
+cd 'D:\gnc_out'
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\msg_angle.grf' 'D:\gnc_out';
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\msg_angle.csy' 'D:\gnc_out';
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\illum_cond.dom' 'D:\gnc_out';
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\illum_cond.rpr' 'D:\gnc_out';
+run 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\create_azimuth_angle_maps.isl
+del 'D:\gnc_out\msgaz_'.mpr -force;
+
+ZENITH:
+!generateangles.bat 2014 12 12 12.14
+cd D:\gnc_out\
+'D:\gnc_out\msgzen_':=map('C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\satzen_2014_12_12_12.14',genras,Convert,378,0,Real,4,SwapBytes);
+setgrf 'D:\gnc_out\msgzen_'.mpr 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\angle';
+'D:\gnc_out\msgzen'{dom=value.dom;vr=-360:360:0.0001}:='D:\gnc_out\msgzen_';
+calc 'D:\gnc_out\msgzen'.mpr;
+'D:\gnc_out\solzen_':=map('C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\sunzen_2014_12_12_12.14',genras,Convert,378,0,Real,4,SwapBytes);
+setgrf 'D:\gnc_out\solzen_'.mpr 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\angle';
+'D:\gnc_out\solzen'{dom=value.dom;vr=-360:360:0.0001}:='D:\gnc_out\solzen_';
+calc 'D:\gnc_out\solzen'.mpr;
+D:
+cd D:
+cd 'D:\gnc_out'
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\msg_angle.grf' 'D:\gnc_out';
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\msg_angle.csy' 'D:\gnc_out';
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\msg_angle.csy' 'D:\gnc_out';
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\illum_cond.dom' 'D:\gnc_out';
+copy 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\illum_cond.rpr' 'D:\gnc_out';
+run 'C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\create_zenith_angle_maps.isl
+del 'D:\gnc_out\msgzen_'.mpr -force;
+del 'D:\gnc_out\solzen_'.mpr -force;
+
+
+MAP COMMAND
+
+'D:\gnc_out\msgaz_':=map('C:\ILWIS38\Extensions\Geonetcast-Toolbox\toolbox_startscript\Angle\sataz_2013_12_12_12.15',genras,Convert,378,0,Real,4,SwapBytes);
+
+genras:	    Command line syntax to use General Raster Import
+Convert:    Specify Convert to translate the data file(s) to the ILWIS raster data format (.MP#)
+NrCols:     Specify the number of columns of a map / band (378)
+SizeHeader: Specify the number of bytes that is used by the header in the external file (0) 
+Real:       Specify Real when the values of the pixels in the file are stored as floats (4 bytes per pixel) or as reals (8 bytes per pixel). 
+4:          Specify 4 when values are stored as long integers or as floats
+SwapyBytes: Specify SwapBytes when the file uses the Motorola byte order (highest byte first, High Endian), e.g. when the file was created on an Apple or (downloaded from) a Unix machine. 
+

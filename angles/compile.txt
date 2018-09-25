@@ -1,0 +1,10 @@
+Remove files:
+C:\Users\carlos.silveira\Dropbox\newPython\angles\sataz_2015_01_01_15.00
+Remove files:
+C:\Users\carlos.silveira\Dropbox\newPython\angles\sunaz_2015_01_01_15.00
+Remove files:
+C:\Users\carlos.silveira\Dropbox\newPython\angles\satzen_2015_01_01_15.00
+Remove files:
+C:\Users\carlos.silveira\Dropbox\newPython\angles\sunzen_2015_01_01_15.00
+java -cp .;C:\Users\carlos.silveira\Dropbox\newPython\angles\angle\operation.jar;C:\Users\carlos.silveira\Dropbox\newPython\angles\angle\Jama-1.0.1.jar;C:\Users\carlos.silveira\Dropbox\newPython\angles\angle AngleMaps 2015 01 01 15.00
+..Fail Generate Azimuth Files

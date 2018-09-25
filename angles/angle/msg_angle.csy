@@ -1,0 +1,21 @@
+[CoordSystem]
+Datum=WGS 1984
+Ellipsoid=User Defined
+Projection=GeoStationary Satellite
+Type=Projection
+Width=28
+
+[Ellipsoid]
+1/f=298.257224
+a=6378137.000000
+
+[Ilwis]
+Type=CoordSystem
+
+[Projection]
+Central Meridian=0.000000
+False Easting=0.000000
+False Northing=0.000000
+Height Persp. Center=35785831.000000
+Scale Factor=1.0000000000
+

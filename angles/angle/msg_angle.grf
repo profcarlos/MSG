@@ -1,0 +1,27 @@
+[GeoRef]
+CoordSystem=msg_angle.csy
+Type=GeoRefCorners
+columns=3712
+lines=3712
+
+[GeoRefCorners]
+CornersOfCorners=Yes
+MaxX=5568748.276000
+MaxY=5568748.276000
+MinX=-5568748.276000
+MinY=-5568748.276000
+
+[Ilwis]
+Type=GeoRef
+
+Description=
+Time=1211804740
+Version=3.1
+Class=GeoReference Corners
+[GeoRefSmpl]
+a11=0.000333288543
+a12=0.000000000000
+a21=0.000000000000
+a22=-0.000333288543
+b1=1856.000000000000
+b2=1856.000000000000
