@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+<OGRVRTLayer name="grid_stations">
+<SrcDataSource>grid_stations.csv</SrcDataSource>
+<GeometryType>wkbPoint</GeometryType>
+<LayerSRS>WGS84</LayerSRS>
+<GeometryField separator="," encoding="PointFromColumns" x="LAT" y="LONG" z="PREC"/>
+</OGRVRTLayer>
+</OGRVRTDataSource>
